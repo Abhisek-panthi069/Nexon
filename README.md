@@ -1,5 +1,5 @@
 # Nexon
-Its the I wanna build ..
+Its the Website I am creating 
 <html>
     <head>
         <base href="https://nexon.tech/"><title>Nexon - Innovating the Future</title>
