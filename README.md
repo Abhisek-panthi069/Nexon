@@ -1,6 +1,8 @@
 # Nexon
 Its the I wanna build ..
-<html><head><base href="https://nexon.tech/"><title>Nexon - Innovating the Future</title>
+<html>
+    <head>
+        <base href="https://nexon.tech/"><title>Nexon - Innovating the Future</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
     :root {
